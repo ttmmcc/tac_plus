@@ -59,6 +59,12 @@ here.  Additionally, you can see the series on TACAC+ that I wrote
 sudo service tac_plus start
 ```
 
+## License
+
+The license is unknown.  If you know what license this daemon uses,
+please contact Tyler Christiansen <tyler@oss-stack.io> so he can update
+this repository.
+
 ## Credits
 
 * [Shrubbery Networks][2], TACACS+ Daemon
