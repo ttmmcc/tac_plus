@@ -62,7 +62,7 @@ sudo service tac_plus start
 ## License
 
 The license is unknown.  If you know what license this daemon uses,
-please contact Tyler Christiansen <tyler@oss-stack.io> so he can update
+please contact Tyler Christiansen<tyler@oss-stack.io> so he can update
 this repository.
 
 ## Credits
@@ -73,8 +73,7 @@ this repository.
 
 [1]: http://shrubbery.net/tac_plus/ "TACACS+ Daemon"
 [2]: http://shrubbery.net/ "Shrubbery Networks, Inc"
-[3]: http://en.wikipedia.org/wiki/AAA_protocol "Authentication,
-Authorization, and Account"
+[3]: http://en.wikipedia.org/wiki/AAA_protocol "Authentication, Authorization, and Account"
 [4]: http://git-scm.org/ "Git Distributed Version Control System"
-[5]: http://oss-stack.io/blog/categories/tacacs/ "OSS Stack - TACACS+
-Category"
+[5]: http://oss-stack.io/blog/categories/tacacs/ "OSS Stack - TACACS+ Category"
+[6]: http://oss-stack.io/ "OSS Stack"
