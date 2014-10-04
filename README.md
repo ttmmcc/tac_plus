@@ -1,6 +1,6 @@
 # TACACS+ Daemon (tac_plus)
 
-`[tac_plus][1]` is a daemon from [Shrubbery Networks][2] that provides
+[`tac_plus`][1] is a daemon from [Shrubbery Networks][2] that provides
 [AAA][3] services.
 
 The source is hosted here in the event that it is ever unavailable from
@@ -62,8 +62,8 @@ sudo service tac_plus start
 ## License
 
 The license is unknown.  If you know what license this daemon uses,
-please contact Tyler Christiansen<tyler@oss-stack.io> so he can update
-this repository.
+please contact Tyler Christiansen via e-mail (<tyler@oss-stack.io>)
+so he can update this repository.
 
 ## Credits
 
